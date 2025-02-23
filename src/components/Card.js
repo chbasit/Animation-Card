@@ -33,7 +33,7 @@ const Card = () => {
   ];
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-100">
+    <div className="flex justify-center items-center min-h-screen">
       <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 p-6 cursor-pointer">
         {cards.map((card, index) => (
           <div
