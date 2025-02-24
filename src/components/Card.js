@@ -9,25 +9,25 @@ const Card = () => {
     {
       title: "Majestic Peaks",
       copy: "Experience breathtaking mountain landscapes and unforgettable adventures.",
-      button: "Book Now",
+      button: "BOOK NOW",
       image: mountainImage,
     },
     {
       title: "Seaside Escapes",
       copy: "Feel the ocean breeze and soak up the sun at these stunning beach getaways",
-      button: "Book Now",
+      button: "BOOK NOW",
       image: beachImage,
     },
     {
       title: "Desert Wonders",
       copy: "Vast dunes, starry nights, and the adventure of a lifetime await you in the desert",
-      button: "Book Now",
+      button: "BOOK NOW",
       image: desertImage,
     },
     {
       title: "Beyond the Stars",
       copy: "Leave Earth behind and embark on an interstellar journey like never before.",
-      button: "Book Now",
+      button: "BOOK NOW",
       image: galaxyImage,
     },
   ];
